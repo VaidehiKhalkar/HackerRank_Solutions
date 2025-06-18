@@ -2,7 +2,7 @@
 
 
 <h1 align="center">🚀 HackerRank Mastery Repository</h1>
-<p align="center">🔥 A complete collection of my HackerRank solutions across Python, SQL, Java, and more. Step-by-step, clean code, and interview-ready.</p>
+<p align="center">🔥 A complete collection of my HackerRank solutions across Python, SQL, and more. Step-by-step, clean code, and interview-ready.</p>
 
 <p align="center">
   <a href="https://www.hackerrank.com/your_username"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
