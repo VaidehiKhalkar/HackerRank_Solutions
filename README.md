@@ -32,5 +32,3 @@ Each problem has its own directory containing:
 
 ---
 
-## 🗂️ Directory Structure
-
