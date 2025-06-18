@@ -1,8 +1,5 @@
 ## HackerRank_Solutions
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solutions-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank Logo">
-</p>
+
 
 <h1 align="center">🚀 HackerRank Mastery Repository</h1>
 <p align="center">🔥 A complete collection of my HackerRank solutions across Python, SQL, Java, and more. Step-by-step, clean code, and interview-ready.</p>
